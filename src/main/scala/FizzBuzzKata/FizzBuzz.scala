@@ -1,3 +1,5 @@
+package FizzBuzz
+
 object FizzBuzz {
   def evaluate(number: Int) = {
     val condition1 = (n: Int) => n % 3 == 0
