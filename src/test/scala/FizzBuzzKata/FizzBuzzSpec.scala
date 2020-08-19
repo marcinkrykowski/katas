@@ -1,4 +1,4 @@
-package FizzBuzz
+package FizzBuzzKata
 
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.must.Matchers

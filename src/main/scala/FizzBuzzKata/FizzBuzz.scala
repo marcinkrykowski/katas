@@ -1,4 +1,4 @@
-package FizzBuzz
+package FizzBuzzKata
 
 object FizzBuzz {
   def evaluate(number: Int) = {
